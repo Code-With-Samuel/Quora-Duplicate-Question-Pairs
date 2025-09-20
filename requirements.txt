@@ -3,3 +3,13 @@ numpy
 pandas
 seaborn
 matplotlib
+scikit-learn
+xgboost
+distance
+fuzzywuzzy
+nltk
+BeautifulSoup4
+plotly
+nltk
+helper
+streamlit
