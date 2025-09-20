@@ -1,6 +1,15 @@
 # Quora Duplicate Question Pairs
 
-## 🚀 Project Overview
+## �️ Demo Screenshots
+Below are example screenshots of the web app in action:
+
+### Not Duplicate Prediction Example
+![Not Duplicate Example](images/image2.png)
+
+### Duplicate Prediction Example
+![Duplicate Example](images/image1.png)
+
+## ���🚀 Project Overview
 This project helps you automatically detect whether two questions asked on Quora are duplicates. It uses powerful machine learning and natural language processing (NLP) techniques to analyze question pairs, extract meaningful features, and predict if they are asking the same thing. This can save time, improve search results, and help organize large Q&A platforms.
 
 ## 📦 Dataset Details
