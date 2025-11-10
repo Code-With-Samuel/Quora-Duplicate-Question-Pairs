@@ -97,7 +97,7 @@ Main Python libraries used:
 - Demonstrates practical use of NLP and machine learning for real-world problems.
 
 ## 📄 License
-MIT License (add details if needed)
+MIT License
 
 ---
 **This project is designed to be beginner-friendly, well-documented, and easy to extend. Whether you want to learn about NLP, build your own duplicate detection system, or just explore a cool dataset, this repository is a great place to start!**
